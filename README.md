@@ -1,3 +1,3 @@
 # MySQL
 
-This document outlines the steps followed to create a dbase in mySQL (create tabel)
+This document outlines the steps followed to create a dbase & tables in mySQL 
